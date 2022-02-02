@@ -1,4 +1,11 @@
+# Very important notes about this project: 
+  o this project missed errors handling
+  o clean architcture
+  o API enterceptors and so on
+
 # Getting Started with Create React App
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
